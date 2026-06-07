@@ -1,6 +1,6 @@
 # Happy to have you as a guest 👋
 
-### 🎯 Junior QA Engineer | Test Automation • Manual & Agile Testing • STLC
+### 🎯 Junior QA Engineer | Test Automation • Manual & Agile Testing • STLC • API Testing CI/CD
 Passionate about quality, precision, and reliable software — with a love for structured test documentation and automation.
 
 ---
