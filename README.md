@@ -19,7 +19,6 @@ Ich arbeite vorwiegend mit **Python**, erstelle automatisierte Tests und erweite
 ### 💼 Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=Playwright&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-%43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -31,8 +30,7 @@ Ich arbeite vorwiegend mit **Python**, erstelle automatisierte Tests und erweite
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 🐍 Python — test automation, scripting, API testing
-🎭 Playwright & Selenium — UI test automation with Page Object Model(curently learning)
-🤖 Robot Framework — keyword-driven test automation (currently learning)
+🎭 Selenium — UI test automation with Page Object Model(curently learning)
 🔎 Locators — CSS selectors, XPath, semantic locators
 🐳 Docker — containerization
 ⚙️ GitHub Actions — CI/CD pipelines with automated testing
