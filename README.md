@@ -1,4 +1,9 @@
 # Happy to have you as a guest 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Alexej76-ux/Alexej76-ux/main/order-chaos.jpg" alt="Let order emerge from chaos" width="650"/>
+  <br>
+  <strong style="font-size: 1.2em; color: #58a6ff;">«Let order emerge from chaos»</strong>
+</p>
 
 ### 🎯 Junior QA Engineer | Test Automation • Manual & Agile Testing • STLC • API Testing CI/CD
 Passionate about quality, precision, and reliable software — with a love for structured test documentation and automation.
