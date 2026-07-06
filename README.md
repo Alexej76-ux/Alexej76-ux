@@ -11,13 +11,11 @@ Passionate about quality, precision, and reliable software — with a love for s
 ---
 
 ## 🧠 About Me
+I am a dedicated **QA Engineer** with hands-on experience in **manual testing**, **test automation**, and the **Software Testing Life Cycle (STLC)**, trained by Masterschool. Currently, I am further enhancing my skills during my internship at **IDCanopy** and intensively preparing for the **ISTQB Certified Tester (CTFL)** certification.
 
-Ich bin ein engagierter **QA Engineer** mit praktischer Erfahrung in der **manuellen Testdurchführung**, **Testautomatisierung** und dem **Software Testing Life Cycle (STLC)**, ausgebildet durch Masterschool. Derzeit vertiefe ich meine Fähigkeiten in der Praxis während meines Praktikums bei **IDCanopy** und bereite mich intensiv auf die **ISTQB Certified Tester (CTFL)** Zertifizierung vor.
+My focus is on making software products more stable, bug-free, and user-friendly. I bring a sharp eye for detail and love integrating structured testing processes into every project.
 
-Mein Fokus liegt darauf, Softwareprodukte stabiler, fehlerfrei und benutzerfreundlich zu machen. Ich bringe ein ausgeprägtes Auge fürs Detail mit und liebe es, strukturierte Testprozesse in jedes Projekt einzubringen.
-
-Ich arbeite vorwiegend mit **Python**, erstelle automatisierte Tests und erweitere mit der Zeit mein Fockus auf Technologien. Ich blühe in Teams auf, die Wert auf Klarheit, Neugier und nutzerorientiertes Denken legen.
-
+I primarily work with **Python**, creating automated tests, and am constantly expanding my technical horizon. I thrive in teams that value clarity, curiosity, and a user-centric mindset.
 ---
 
 🧰 Tech Stack & Tools
