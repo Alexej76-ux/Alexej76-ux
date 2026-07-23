@@ -45,13 +45,15 @@ I primarily work with **Python**, creating automated tests, and am constantly ex
 
 ## 📂 Featured Portfolio Project
 Mein wichtigstes QA-Projekt findest du hier:
-👉 **[grocery-portfolio](https://github.com/Alexej76-ux/grocerymate-qa-portfolio)** – Enthält vollständige Testdokumentationen, Testfälle und Automatisierungsansätze.
-## Technologies
-- Python
-- Git / GitHub
-- Unit Testing
-- Markdown
+## 💻 Featured Portfolio Projects
 
+### 🛒 [GroceryMate QA Portfolio](https://github.com/Alexej76-ux/grocerymate-qa-portfolio)
+Complete QA documentation package including test plans, manual test cases, and exploratory testing reports for an e-commerce platform.
+
+### 🧪 [Masterschool QA Automation Project](https://github.com/Alexej76-ux/Masterschool-QA-TestAutoProject)
+An automated UI testing framework built from scratch using **Python**, **Selenium WebDriver**, and **Pytest**. 
+- Implements the **Page Object Model (POM)** design pattern for clean, maintainable architecture.
+- Features test suites for User Authentication, Age Verification, Shopping Cart operations, and Product Pages.
 ## Contact
 📫 [My email address is alpatin6@gmail.com or 
 my LinkedIn profile is Alexej Platizin, among others]
